@@ -30,6 +30,7 @@ const Hero = () => {
                   className="px-8 py-3 text-lg font-semibold sm:px-28  xl:py-3 bg-[#061e45] rounded-3xl   hover:bg-[#ffae00] text-white  "
                 >
                   <span>Call Us Now</span>
+                  <span></span>
                 </a>
               </div>
             </div>
