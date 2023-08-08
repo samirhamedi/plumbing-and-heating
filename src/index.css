@@ -6,7 +6,7 @@ html {
 }
 @layer components {
     .menuOptions {
-        @apply text-white hover:text-[#ffae00] rounded-md px-3 py-2 text-sm font-medium ;
+        @apply text-white hover:text-[#ffae00] rounded-md px-3 py-2 text-sm font-medium sm:text-base;
     }
     .openMenuOptions {
         @apply text-white block  hover:text-[#ffae00]  rounded-md px-3 py-2 text-base font-medium ;
