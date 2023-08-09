@@ -79,17 +79,9 @@ const Navbar = () => {
               </div>
             </div>
             <div className="logos">
-              <img
-                src="/assets/Layer 1.png"
-                className="h-8 mr-5"
-                alt=""
-              />
-              <img
-                src="/assets/Layer 2.png"
-                className="h-8 mr-5"
-                alt=""
-              />
-              <img src="/assets/Layer 3.png" className="h-8 " alt="" />
+              <img src="assets/Layer 1.png" className="h-8 mr-5" alt="" />
+              <img src="assets/Layer 2.png" className="h-8 mr-5" alt="" />
+              <img src="assets/Layer 3.png" className="h-8 " alt="" />
             </div>
           </div>
         </div>

@@ -21,7 +21,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/heating-svgrepo-com.png"
+                  src="assets/heating-svgrepo-com.png"
                   alt=""
                   className=" sm:p-3 p-3"
                 />
@@ -35,7 +35,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/plumbing-pipe-svgrepo-com.png"
+                  src="assets/plumbing-pipe-svgrepo-com.png"
                   alt=""
                   className=" sm:p-4 p-6"
                 />
@@ -49,7 +49,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/house-temperature-smart-control.png"
+                  src="assets/house-temperature-smart-control.png"
                   alt=""
                   className=" sm:p-8 p-10"
                 />
@@ -63,7 +63,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/pngtree-gaz-boiler-heating-system-equipment-vector-icon-png-image_1804367.png"
+                  src="assets/pngtree-gaz-boiler-heating-system-equipment-vector-icon-png-image_1804367.png"
                   alt=""
                   className=" sm:p-6 p-9 "
                 />
@@ -76,7 +76,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/bathtub-bathroom-svgrepo-com.png"
+                  src="assets/bathtub-bathroom-svgrepo-com.png"
                   alt=""
                   className=" sm:p-3 p-4"
                 />
@@ -90,7 +90,7 @@ const Services = () => {
             <div className="servicesCard">
               <div className="servicesImgContainer">
                 <img
-                  src="/assets/underfloor-heating-svgrepo-com.png"
+                  src="assets/underfloor-heating-svgrepo-com.png"
                   alt=""
                   className=" p-8 sm:p-5"
                 />
