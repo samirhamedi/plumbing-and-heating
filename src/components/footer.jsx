@@ -6,21 +6,21 @@ const Footer = () => {
         <div class="flex   sm:flex-row  sm:justify-center sm:items-center sm:space-x-5 ">
           <div className="footerImgContainer">
             <img
-              src="\assets\safe logo.png"
+              src="dist\assets\safe logo.png"
               alt=""
               className="footerImg"
             />
           </div>
           <div className="footerImgContainer">
             <img
-              src="\assets\Checkatrade_Logo_2023.svg.png"
+              src="dist\assets\Checkatrade_Logo_2023.svg.png"
               alt=""
               className="footerImg"
             />
           </div>
           <div className="footerImgContainer">
             <img
-              src="/assets/city-and-guilds-logo-med-300x173.png"
+              src="dist\assets\city-and-guilds-logo-med-300x173.png"
               alt=""
               className="footerImg"
             />

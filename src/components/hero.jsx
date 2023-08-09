@@ -7,7 +7,7 @@ const Hero = () => {
           <div className="container flex flex-col sm:flex-row justify-center p-5 items-center sm:py-12  mx-auto sm:justify-between ">
             <div className="flex items-center justify-center sm:mr-3 sm:my-8 h-72 sm:h-80 lg:h-96  ">
               <img
-                src="\assets\boiler-02.png"
+                src="public\assets\boiler-02.png"
                 alt=""
                 className="object-contain  h-72 sm:h-96 lg:h-96 xl:h-[450px] xl: 2xl:h-128"
               />
