@@ -74,22 +74,22 @@ const Navbar = () => {
                 Plumbing & Heating
               </span>
               <div className="flex  items-center mt-2">
-                <img src="public\assets\2.PNG" className="h-4 mr-1" alt="" />
+                <img src="/assets/2.PNG" className="h-4 mr-1" alt="" />
                 <span className="text-sm text-[#c3e3eb] ">London</span>
               </div>
             </div>
             <div className="logos">
               <img
-                src="public/assets/Layer 1.png"
+                src="/assets/Layer 1.png"
                 className="h-8 mr-5"
                 alt=""
               />
               <img
-                src="public/assets/Layer 2.png"
+                src="/assets/Layer 2.png"
                 className="h-8 mr-5"
                 alt=""
               />
-              <img src="public/assets/Layer 3.png" className="h-8 " alt="" />
+              <img src="/assets/Layer 3.png" className="h-8 " alt="" />
             </div>
           </div>
         </div>
