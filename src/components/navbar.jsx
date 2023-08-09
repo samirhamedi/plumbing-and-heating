@@ -74,7 +74,7 @@ const Navbar = () => {
                 Plumbing & Heating
               </span>
               <div className="flex  items-center mt-2">
-                <img src="/assets/2.PNG" className="h-4 mr-1" alt="" />
+                <img src="assets/2.PNG" className="h-4 mr-1" alt="" />
                 <span className="text-sm text-[#c3e3eb] ">London</span>
               </div>
             </div>
