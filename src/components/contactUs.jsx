@@ -16,10 +16,6 @@ const ContactUs = () => {
               <h1 className="mt-2 text-sm font-medium text-[#c3e3eb] md:text-xl ">
                 Get in touch
               </h1>
-
-              <p className="mt-3 text-[#c3e3eb] ">
-                We would love to hear from you.
-              </p>
             </div>
 
             <div className="grid grid-cols-1 gap-12 mt-10 lg:grid-cols-3">
@@ -74,7 +70,7 @@ const ContactUs = () => {
 
                   <h2 className="contactUsTitle">Phone</h2>
                   <p className="contactUsDescription">
-                    Mon-Fri from 8am to 5pm.
+                    24/7
                   </p>
 
                   <a className="contactUsLink" href="tel:07532612126">
