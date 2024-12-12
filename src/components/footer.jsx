@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
         </div>
         <p class="text-center text-gray-700 font-medium mb-2">
-          &copy; All rights reservered for ARASH.S
+          &copy; All rights reservered for ARASH.Sss
         </p>
       </footer>
     </>
