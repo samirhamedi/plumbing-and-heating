@@ -14,11 +14,10 @@ const Hero = () => {
             </div>
             <div className="flex flex-col  justify-center sm:justify-center  text-center rounded-sm  sm:text-left ">
               <h1 className="text-2xl mb-3 font-bold leadi text-[#061e45] sm:mb-5 sm:text-4xl  sm:font-extrabold">
-                ARASH.S
+                Giants
               </h1>
-
               <h1 className="text-3xl font-bold leadi text-[#ff8c00] sm:4xl md:text-5xl">
-                High-Quality plumbing <br /> and heating
+                plumbing <br /> and heating
               </h1>
               <p className="mt-6 mb-8  text-lg sm:text-2xl sm:mb-12">
                 Installation, Repair & Maintenance
