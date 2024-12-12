@@ -13,7 +13,7 @@ const Hero = () => {
               />
             </div>
             <div className="flex flex-col  justify-center sm:justify-center  text-center rounded-sm  sm:text-left ">
-              <h1 className="text-2xl mb-3 font-bold leadi text-[#061e45] sm:mb-5 sm:text-4xl  sm:font-extrabold">
+              <h1 className="text-3xl mb-1 font-bold leadi text-[#061e45] sm:mb-5 sm:text-4xl  sm:font-extrabold">
                 Giants
               </h1>
               <h1 className="text-3xl font-bold leadi text-[#ff8c00] sm:4xl md:text-5xl">
